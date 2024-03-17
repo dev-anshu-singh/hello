@@ -1,0 +1,4 @@
+Namaste, Welcome to this git workshop.
+Today we are going to learn the very basic of git.
+Premika ne pyar se jo bhi de diya mere vaaste nilam jaisa.
+Meri jeet bhi le ja meri haar bhi leja har jakham bhi leja.
